@@ -2,7 +2,6 @@
 
 - 🔭 Trabalho com backend
 - 🌱 Estudando novas linguagens de backend e IA.
-- 😄 Pronouns: ela/dela
 
   
 <div style="display: inline_block"><br>
